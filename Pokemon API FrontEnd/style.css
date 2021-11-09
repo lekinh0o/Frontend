@@ -19,7 +19,7 @@ img {
 }
 
 .card {
-    background-color: rgb(253, 253, 253);
+    background-color: rgba(253, 253, 253, 0.945);
     width: 395px;
     border-radius: 5px;
     padding: 10px;
